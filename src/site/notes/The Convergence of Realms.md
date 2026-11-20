@@ -12,9 +12,9 @@
 
 ## Campaign Navigation
 
-* **[[Convergence of Realms/00 Miscellaneous/Campaign Setting and “Pitch”\|Campaign Setting and “Pitch”]]** — Dive into the history, geography, and current state of the realms.
+* **[[Convergence of Realms/Miscellaneous/Campaign Setting and “Pitch”\|Campaign Setting and “Pitch”]]** — Dive into the history, geography, and current state of the realms.
 * **[[02_NPCs and Factions/00_Factions Summary\|Factions & Powers]]** — Discover the major political forces, syndicates, and empires shaping the conflict.
-* **[[Convergence of Realms/05_Mechanics/House Rules - Miscellaneous\|House Rules & Mechanics]]** — Reference guide for player-facing rules, homebrew adjustments, and party guides.
+* **[[Convergence of Realms/Mechanics/House Rules - Miscellaneous\|House Rules & Mechanics]]** — Reference guide for player-facing rules, homebrew adjustments, and party guides.
 * **[[06_Beastiary/_Beastiary Summary\|Bestiary & Encounters]]** — Information on the creatures, factions, and threats encountered across the lands.
 
 ---
