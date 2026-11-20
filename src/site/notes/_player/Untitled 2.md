@@ -3,22 +3,6 @@
 ---
 
 
-``` statblock
-name: name
-size: size
-type: type
-ac: __ (ex. Hide Armor & Shield)
-hp: __ (ex. 3d8 + 3)
-speed: __ ft.
-stats: [STR, DEX, CON, INT, WIS, CHA]
-traits:
-  - name: 
-    desc: 
-actions:
-  - name: 
-    desc: 
-```
-
 > [!stats] Guard Captain
 > **Medium Humanoid (Any Race), Neutral**
 > **Armor Class** 16 (Chain Mail)
