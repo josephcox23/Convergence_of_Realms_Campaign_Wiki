@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convergence-of-realms/00-miscellaneous/campaign-setting-and-pitch/","dg-note-properties":{"publish":true,"pfn-source":"00 Miscellaneous/Campaign Setting and “Pitch”.md"}}
+{"dg-publish":true,"permalink":"/convergence-of-realms/00-miscellaneous/campaign-setting-and-pitch/","dg-note-properties":{"publish":true,"pfn-source":"Miscellaneous/Campaign Setting and “Pitch”.md"}}
 ---
 
 

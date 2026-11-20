@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convergence-of-realms/02-np-cs-and-factions/factions-and-lore/history/the-long-night/","dg-note-properties":{"publish":true,"pfn-source":"02_NPCs and Factions/Factions & Lore/History/The Long Night.md"}}
+{"dg-publish":true,"permalink":"/convergence-of-realms/02-np-cs-and-factions/factions-and-lore/history/the-long-night/","dg-note-properties":{"publish":true,"pfn-source":"NPCs and Factions/Factions & Lore/History/The Long Night.md"}}
 ---
 
 

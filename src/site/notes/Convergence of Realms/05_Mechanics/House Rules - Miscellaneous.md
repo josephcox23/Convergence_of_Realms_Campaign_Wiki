@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convergence-of-realms/05-mechanics/house-rules-miscellaneous/","dg-note-properties":{"publish":true,"pfn-source":"05_Mechanics/House Rules and Game Expectations.md"}}
+{"dg-publish":true,"permalink":"/convergence-of-realms/05-mechanics/house-rules-miscellaneous/","dg-note-properties":{"publish":true,"pfn-source":"Mechanics/House Rules and Game Expectations.md"}}
 ---
 
 
